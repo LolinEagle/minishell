@@ -27,9 +27,6 @@
 # include <sys/ioctl.h>// ioctl
 # include <readline/readline.h>// rl_on_new_line rl_replace_line rl_redisplay
 # include <readline/history.h>// rl_clear_history add_history
-// <readline/readline.h> readline
-// <unistd.h> getcwd chdir isatty ttyname ttyslot
-// <termios.h> tgoto tputs
 
 # define FAILURE 0
 # define SUCCESS 1

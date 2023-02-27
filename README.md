@@ -1,6 +1,4 @@
 # Minishell
-School 42 project.
-
 The goal of this project is to create a minimalist shell.
 
 This will be a little copy of bash.
