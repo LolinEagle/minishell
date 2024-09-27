@@ -1,7 +1,5 @@
 # Minishell
-The goal of this project is to create a minimalist shell.
-
-This will be a little copy of bash.
+The goal of this project is to create a minimalist shell. This will be a copy of bash.
 
 ## Authors
 - [@Lollith](https://www.github.com/Lollith)
@@ -14,9 +12,9 @@ git clone --recurse-submodules https://github.com/Lollith/minishell.git &&
 cd minishell && make && ./minishell
 ```
 
-## Related
+## Related project
 Here are some related projects
 
 [Submodule libft](https://github.com/LolinEagle/libft)
 
-[pipex](https://github.com/Lollith/pipex.git)
+[Pipex](https://github.com/LolinEagle/pipex)
